@@ -1,0 +1,22 @@
+{
+  "config": {
+    "population": 96,
+    "generations": 220,
+    "runs": 20,
+    "first_seed": 17000,
+    "dimension": 9,
+    "crossover_probability": 0.9,
+    "mutation_probability": 0.1111111111111111,
+    "sigma_start": 15.0,
+    "sigma_end": 0.0001,
+    "tournament": 3,
+    "group": 507,
+    "student_number": 17,
+    "year": 2026,
+    "variant": 16
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "seed_policy": "first_seed + run_index"
+}

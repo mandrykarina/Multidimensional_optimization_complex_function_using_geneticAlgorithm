@@ -1,0 +1,9 @@
+test_anisotropy (test_model.Tests.test_anisotropy) ... ok
+test_budget_elitism_reproducibility (test_model.Tests.test_budget_elitism_reproducibility) ... ok
+test_minimum (test_model.Tests.test_minimum) ... ok
+test_reflection (test_model.Tests.test_reflection) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.018s
+
+OK
